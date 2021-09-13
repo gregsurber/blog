@@ -1,8 +1,8 @@
-# It's official! 
+# It's official!
 
 I have been offered and accepted an Associate Professor position at my alma mater, [CityU of Seattle][1].
 
-I am very excited to be joining the dynamic and engaging faculty of the *School of Technology & Computing*. 
+I am very excited to be joining the dynamic and engaging faculty of the *School of Technology & Computing*.
 
 For my first semester, I will be teaching CS 467 Systems Security. This is a course focused on the security aspects of computing systems and will include lab work at [TryHackMe.com][2].
 
