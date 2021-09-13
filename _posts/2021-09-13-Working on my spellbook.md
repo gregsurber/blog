@@ -4,6 +4,6 @@ So, I have decided to document the most-used tools I encounter on my path to lea
 
 My plan is to create a single-page writeup of the most common tools I encounter, documenting the basic usage for each, both the how's and the when's I expect them to be of use. I'll include links to official repositories and write-ups, when I have them, so I can do deeper research when needed.
 
-For now this repository will remain private. Once I have accumulated enough write-ups that I think it might be useful to others, I will consider making it avaialable.
+For now this repository will remain private. Once I have accumulated enough write-ups that I think it might be useful to others, I will consider making it available.
 
 [1]: https://github.com/gregsurber/Spellbook
