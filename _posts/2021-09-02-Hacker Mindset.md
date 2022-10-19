@@ -1,5 +1,0 @@
-# Understanding the hacker mindset
-
-I have been doing a bit of research lately on the subject of the "hacker mindset". There are any number of theories about what makes someone a "skilled" hacker, in the security professional sense of the term. But they all seem to come down to the same foundational element: an inquisitive nature that likes taking things apart, virtually as well as literally, and figuring out how they work - then pushing them beyond that limitation.
-
-Programming can be part of that, but it's not a requirement. Same with networking knowledge, Linux funadmentals, Windows operation, and just about any other "requirement" most job postings list. in fact, I think you will find that any endeavor that can be undertaken by a human qualifies as "something that can be hacked". And the first step to becoming a hacker of any of those endeavors, including all those *```31173 h4ck1n9 5k1115```*, is the desire to know the answers to some fundamental questions: why? how? and what if..?
