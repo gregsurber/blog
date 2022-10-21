@@ -18,6 +18,6 @@
 16. PentesterLab - Learn web-app penetration testing.
 17. PortSwigger Web Security - Learning material.
 
-Credit: 
-@danielmakelley
- 
+Credit: [@danielmakelley][18]
+
+[18]: https://twitter.com/danielmakelley
